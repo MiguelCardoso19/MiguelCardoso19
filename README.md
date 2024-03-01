@@ -6,7 +6,7 @@ Currently conquering code at a Code for All! Former welder turned coding enthusi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelcardoso19) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java]([https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white](https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/java/java.svg))
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=miguelcardoso19&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miguelcardoso19&theme=react&hide_border=false)<br/>
