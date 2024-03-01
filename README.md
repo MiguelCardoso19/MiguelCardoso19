@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👀 About Me:
 Currently conquering code at a Code for All! Former welder turned coding enthusiast. I thrive on challenges, embrace the unknown, and live for the grind. Eager to absorb new tech and always ready for the next learning curve.  💻🌐
 
 
