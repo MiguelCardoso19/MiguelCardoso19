@@ -1,6 +1,14 @@
 # 👀 About Me:
-Currently conquering code at a Code for All! Former welder turned coding enthusiast. I thrive on challenges, embrace the unknown, and live for the grind. Eager to absorb new tech and always ready for the next learning curve.  💻🌐
+🚀 About Me
+Currently conquering code at a Code for All_! Former welder turned coding enthusiast. 
+I thrive on challenges, embrace the unknown, and live for the grind. Eager to absorb new tech and always ready for the next learning curve.
 
+⚙️ Technical Skills
+Backend: JAVA, MAVEN, SPRING BOOT
+Frontend: JavaScript, CSS, HTML
+CICD: Git, GitHub Actions 
+Database: SQL
+Agile: Scrum 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelcardoso19) 
