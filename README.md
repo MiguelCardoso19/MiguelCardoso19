@@ -2,7 +2,7 @@
 Currently conquering code at a Code for All_! Former welder turned coding enthusiast.  
 I thrive on challenges, embrace the unknown, and live for the grind. Eager to absorb new tech and always ready for the next learning curve.  
 
-# ⚙️ Technical Skills  
+# ⚙️ Technical Skills:  
 Backend: JAVA, MAVEN, SPRING BOOT  
 Frontend: JavaScript, CSS, HTML  
 CICD: Git, GitHub Actions  
