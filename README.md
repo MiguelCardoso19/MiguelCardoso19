@@ -10,7 +10,7 @@ Database: SQL
 Agile: Scrum
 
 # 📄 Resume:
-Download my resume [here](https://github.com/MiguelCardoso19/Resume-Repository/raw/main/resume.pdf).
+Download my resume [here]([https://github.com/MiguelCardoso19/Resume-Repository/raw/main/resume.pdf](https://github.com/MiguelCardoso19/Resume-Repository/blob/main/CV%20Miguel%20Cardoso.pdf)).
 
 # 🌐 Socials:
 - Email: miguel40cardoso@gmail.com
