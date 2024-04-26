@@ -10,11 +10,10 @@ Database: SQL
 Agile: Scrum
 
 # 📄 Resume:
-Download my resume [here]([https://github.com/MiguelCardoso19/Resume-Repository/raw/main/resume.pdf](https://github.com/MiguelCardoso19/Resume-Repository/blob/main/CV%20Miguel%20Cardoso.pdf)).
+Download my resume [here](https://github.com/MiguelCardoso19/Resume-Repository/blob/main/CV%20Miguel%20Cardoso.pdf).
 
 # 🌐 Socials:
-- Email: miguel40cardoso@gmail.com
-  [<img src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/>](https://www.linkedin.com/in/MiguelCardoso19)
+- Email: miguel40cardoso@gmail.com       [<img src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/>](https://www.linkedin.com/in/MiguelCardoso19)
 
 # 💻 Tech Stack:
   <div>
