@@ -9,12 +9,12 @@ CICD: Git, GitHub Actions
 Database: SQL  
 Agile: Scrum
 
+# 📄 Resume:
+Download my resume [here](https://github.com/MiguelCardoso19/Resume-Repository/raw/main/resume.pdf).
 
 # 🌐 Socials:
 - Email: miguel40cardoso@gmail.com
-  
   [<img src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/>](https://www.linkedin.com/in/MiguelCardoso19)
-
 
 # 💻 Tech Stack:
   <div>
@@ -26,11 +26,5 @@ Agile: Scrum
   </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=miguelcardoso19&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miguelcardoso19&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcardoso19&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=miguelcardoso19&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
