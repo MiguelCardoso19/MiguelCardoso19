@@ -26,6 +26,9 @@ Download my resume [here](https://github.com/MiguelCardoso19/Resume-Repository/b
     <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
 
+# 🛠️ Currently Working On:
+Exploring new project ideas and enhancing my skills in full-stack development. Currently, I'm actively contributing to [MDB Explorer](https://github.com/MiguelCardoso19/MDB-Explorer)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miguelcardoso19&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcardoso19&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
