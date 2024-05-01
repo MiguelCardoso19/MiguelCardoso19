@@ -27,7 +27,7 @@ Download my resume [here](https://github.com/MiguelCardoso19/Resume-Repository/b
   </div>
 
 # 🛠️ Currently Working On:
-Exploring new project ideas and enhancing my skills in full-stack development. Currently, I'm actively contributing to [MDB Explorer](https://github.com/MiguelCardoso19/MDB-Explorer)
+Currently, I'm actively contributing to [MDB Explorer](https://github.com/MiguelCardoso19/MDB-Explorer)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miguelcardoso19&theme=react&hide_border=false)
