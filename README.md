@@ -9,9 +9,6 @@ CICD: Git, GitHub Actions
 Database: SQL  
 Agile: Scrum
 
-# 📄 Resume:
-Download my resume [here](https://github.com/MiguelCardoso19/Resume-Repository/blob/main/CV%20Miguel%20Cardoso.pdf).
-
 # 🌐 Socials:
 - Email: miguel40cardoso@gmail.com
   
@@ -27,7 +24,7 @@ Download my resume [here](https://github.com/MiguelCardoso19/Resume-Repository/b
   </div>
 
 # 🛠️ Currently Working On:
-Currently, I'm actively contributing to [MDB Explorer](https://github.com/MiguelCardoso19/MDB-Explorer)
+Currently, I'm actively contributing to [ReelRadar](https://github.com/MiguelCardoso19/ReelRadar)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miguelcardoso19&theme=react&hide_border=false)
