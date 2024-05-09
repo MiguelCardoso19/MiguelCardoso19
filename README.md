@@ -4,6 +4,7 @@ I thrive on challenges, embrace the unknown, and live for the grind. Eager to ab
 
 # ⚙️ Technical Skills:  
 Backend: JAVA, MAVEN, SPRING 
+
 Frontend: JavaScript, CSS, HTML  
 CICD: Git, GitHub Actions  
 Database: SQL  
