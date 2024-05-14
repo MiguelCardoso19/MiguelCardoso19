@@ -3,7 +3,8 @@ Former welder turned coding enthusiast.
 I thrive on challenges, embrace the unknown, and live for the grind. Eager to absorb new tech and always ready for the next learning curve.  
 
 # ⚙️ Technical Skills:  
-Backend: JAVA, MAVEN, SPRING   
+Backend: JAVA, MAVEN, SPRING
+Cloud: AWS (ECS, EKS, LAMBDA, SNS, RDS, S3...)
 Frontend: JavaScript, CSS, HTML  
 CICD: Git, GitHub Actions  
 Database: SQL  
@@ -19,6 +20,7 @@ Agile: Scrum
     <img align="center" alt="Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Database" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg">
+    <img align="center" alt="AWS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
     <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
