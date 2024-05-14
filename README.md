@@ -3,8 +3,8 @@ Former welder turned coding enthusiast.
 I thrive on challenges, embrace the unknown, and live for the grind. Eager to absorb new tech and always ready for the next learning curve.  
 
 # ⚙️ Technical Skills:  
-Backend: JAVA, MAVEN, SPRING
-Cloud: AWS (ECS, EKS, LAMBDA, SNS, RDS, S3...)
+Backend: JAVA, MAVEN, SPRING  
+Cloud: AWS (ECS, EKS, LAMBDA, SNS, RDS, S3...)  
 Frontend: JavaScript, CSS, HTML  
 CICD: Git, GitHub Actions  
 Database: SQL  
