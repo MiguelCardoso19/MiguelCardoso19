@@ -6,7 +6,7 @@ I thrive on challenges, embrace the unknown, and live for the grind. Eager to ab
 Backend: JAVA, MAVEN, SPRING  
 Cloud: AWS (ECS, EKS, LAMBDA, SNS, RDS, S3...)  
 Frontend: JavaScript, CSS, HTML  
-CICD: Git
+CICD: Git   
 Database: SQL  
 Agile: Scrum
 
