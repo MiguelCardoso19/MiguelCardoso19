@@ -1,6 +1,6 @@
 **👀 About Me:**  
-Former welder turned coding enthusiast.  
-I thrive on challenges, embrace the unknown, and live for the grind. Eager to absorb new tech and always ready for the next learning curve.  
+Former welder turned coding enthusiast.
+Ignited by a fascination with technology and Web3. Committed to leveraging my skills to drive innovation and tackle new challenges.
 
 ---
 **⚙️ Technical Skills:**  
