@@ -1,6 +1,6 @@
 **👀 About Me:**  
-Former welder turned coding enthusiast.
-Ignited by a fascination with technology and Web3. Committed to leveraging my skills to drive innovation and tackle new challenges.
+Formerly a welder, I am a doer who doesn't shy away from challenges.   
+My journey into coding was sparked by a deep interest in technology and Web3. Drawing from my experiences of living independently in multiple foreign countries, I've cultivated resilience and adaptability. Embracing change and innovation, I am driven to explore new horizons and contribute to the tech industry. 
 
 ---
 **⚙️ Technical Skills:**  
