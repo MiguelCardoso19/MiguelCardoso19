@@ -35,7 +35,7 @@ Email: miguel40cardoso@gmail.com
 
 ---
 
-**🛠️ Currently Working On:**
+**🛠️ Currently Working On:**  
 I am currently focused on the backend development for [ReelRadar](https://github.com/MiguelCardoso19/ReelRadar)
 
 ---
