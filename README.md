@@ -42,6 +42,8 @@ I am currently focused on the backend development for [ReelRadar](https://github
 ---
                 
 **📊 GitHub Stats:**
+<div style="display: flex;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcardoso19&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="340" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcardoso19&theme=react&hide_border=false" width="400" height="200" />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=miguelcardoso19&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcardoso19&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
