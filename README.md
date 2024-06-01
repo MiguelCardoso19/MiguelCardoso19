@@ -36,7 +36,6 @@ Email: miguel40cardoso@gmail.com
 ---
 
 **🛠️ Currently Working On:**
-
 I am currently focused on the backend development for [ReelRadar](https://github.com/MiguelCardoso19/ReelRadar)
 
 ---
@@ -46,4 +45,3 @@ I am currently focused on the backend development for [ReelRadar](https://github
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcardoso19&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="340" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelcardoso19&theme=react&hide_border=false" width="400" height="200" />
 </div>
-
