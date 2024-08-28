@@ -5,7 +5,6 @@ My journey into coding was sparked by a deep interest in technology and Web3. Dr
 ---
 **⚙️ Technical Skills:**  
 Backend: JAVA, MAVEN, SPRING BOOT   
-Cloud: AWS (ECS, EKS, LAMBDA, SNS, RDS, S3...)  
 Frontend: JavaScript, CSS, HTML  
 CICD: Git, GitHub   
 Database: mySQL, PostgreSQL  
