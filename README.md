@@ -4,9 +4,9 @@ My journey into coding was sparked by a deep interest in technology and Web3. Dr
 
 ---
 **🌐 Socials:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MiguelCardoso19)
+<br>
 Email: miguel40cardoso@gmail.com
-
-  [<img src="https://camo.githubusercontent.com/29ba59dbf61686238096822c7de916a9b41c40bf362b70e7f2c609551ce8f656/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn"/>](https://www.linkedin.com/in/MiguelCardoso19)
 
 ---
       
@@ -24,7 +24,6 @@ Email: miguel40cardoso@gmail.com
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3">
     <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"> 
-  
   </div>
 
 ---
