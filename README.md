@@ -1,8 +1,9 @@
 **👀 About Me:**  
 Formerly a welder, I am a doer who doesn't shy away from challenges.   
-My journey into coding was sparked by a deep interest in technology and Web3. Drawing from my experiences of living independently in multiple foreign countries, I've cultivated resilience and adaptability. Embracing change and innovation, I am driven to explore new horizons. 
+My journey into coding was sparked by a deep interest in technology and Web3. Drawing from my experiences of living independently in multiple foreign countries, I've cultivated resilience and adaptability. 
 
 ---
+
 **🌐 Socials:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MiguelCardoso19)
 <br>
@@ -25,12 +26,7 @@ Email: miguel40cardoso@gmail.com
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3">
     <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"> 
   </div>
-
----
-
-**🛠️ Currently Working On:**  
-I am currently focused on the backend development for [ReelRadar](https://github.com/MiguelCardoso19/ReelRadar)
-
+  
 ---
                 
 **📊 GitHub Stats:**
