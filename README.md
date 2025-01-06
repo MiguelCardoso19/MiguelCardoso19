@@ -14,20 +14,20 @@ Email: miguel40cardoso@gmail.com
 ---
       
 **💻 Tech Stack:**
-  <div>
-    <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-    <img align="center" alt="Maven" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
-    <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-    <img align="center" alt="Kafka" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"><br><br>
-    <img align="center" alt="mySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-         <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3">
-    <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"> 
-  </div>
+<div>
+  <img align="center" alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img align="center" alt="Spring" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg">
+  <img align="center" alt="PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+  <img align="center" alt="MongoDB" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg">
+  <img align="center" alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+  <img align="center" alt="Kafka" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kafka.svg">
+  <img align="center" alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img align="center" alt="Maven" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg">
+  <img align="center" alt="Gradle" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gradle-Dark.svg">
+  <img align="center" alt="Angular" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">
+  <img align="center" alt="AWS" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
+</div>
+
   
 ---
                 
