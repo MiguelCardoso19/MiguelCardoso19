@@ -1,6 +1,6 @@
 **👀 About Me:**  
 
-Formerly a welder, I am a doer who doesn't shy away from challenges.      
+I am a doer who doesn't shy away from challenges.      
 My journey into coding was sparked by a deep interest in blockchain technology
 and Web3, which led me to explore scripting and discover my passion for coding.
 
